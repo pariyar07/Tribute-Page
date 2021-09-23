@@ -1,0 +1,55 @@
+html {
+    font-size: 9px;
+}
+
+body {
+    background: #1b1b1b;
+    font-family: Times, serif;
+    font-size: 2.5rem;
+    line-height: 2;
+    text-align: center;
+    color: #D61A3C;
+    margin: 1;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+p {
+    font-size: 25px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div {
+    background: black;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#tribute-info {
+    max-width: 945px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+#quote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+#tribute-link {
+    color: white;
+}
